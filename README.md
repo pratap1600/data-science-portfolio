@@ -1,5 +1,5 @@
 # Introduction
-Hello, my name is Pratap Timilsina and I'm a data scientist and data engineer. With over 6 plus years of experience in the field, I have developed a passion for          extracting insights from data using statistical modeling and machine learning techniques. I have worked on a variety of projects throughout my career, including       predictive modeling, sentiment analysis, time-series forecasting, NLP and network analysis, among others.
+Hello, my name is Pratap Timilsina and I'm a data scientist and data engineer. With over 6 plus years of experience in the field, I have developed a passion for          extracting insights from data using statistical modeling and machine learning techniques. I have worked on a variety of projects throughout my career, including       predictive modeling, sentiment analysis, time-series forecasting, NLP, neural network and network analysis, among others.
 
 In this portfolio, I have compiled some of my best work to showcase my skills and expertise in the field. You'll find a range of projects that highlight my ability     to analyze data, create visualizations, and build models that provide meaningful insights.
 
